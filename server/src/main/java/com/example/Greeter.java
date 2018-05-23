@@ -6,9 +6,7 @@ package com.example;
 public class Greeter {
 
   /**
-   * This is a constructor.ved Bhure 
-	level 1
-	level 2
+   * This is a constructor.
    */
   public Greeter() {
 
@@ -16,8 +14,8 @@ public class Greeter {
 
 
 /**
- * @param ved bhure
- * @return return value
+ * @param someone
+ * @return String
 */
 
   public final String greet(final String someone) {
